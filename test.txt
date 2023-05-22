@@ -1,1 +1,2 @@
 New test.txt file
+New line for conflict
