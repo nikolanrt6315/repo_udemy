@@ -1,3 +1,4 @@
 New test.txt file
 Master line for conflict
 New line for conflict
+New line for staging
