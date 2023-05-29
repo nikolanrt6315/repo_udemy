@@ -1,1 +1,3 @@
 New line for commiting
+Error line for reset1
+Error line for reset2
