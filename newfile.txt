@@ -4,3 +4,5 @@ Error line for reset2
 New commit with error
 
 Reset line
+
+Rebase1
