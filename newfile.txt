@@ -7,3 +7,4 @@ New commit with error
 Reset line
 
 Rebase1
+Rebase2
